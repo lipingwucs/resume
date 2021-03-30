@@ -112,14 +112,22 @@ const DATA = {
       display: 'linkedin.com/in/lipingwucs/',
       link: 'https://www.linkedin.com/in/lipingwucs/',
     },
-  ],
+    {
+      name: 'GitHub',
+      faClass: 'fa fa-github',
+      display: 'github.com/lipingwucs/',
+      link: 'https://github.com/lipingwucs/',
+    }
+ 
+    
+    ],
   main: {
     firstName: 'Liping',
     lastName: 'Wu',
     program: {
       term: '',
-      nickname: 'Software Engineer',
-      name: 'Software Engineer',
+      nickname: 'Software Engineering and Technology',
+      name: 'Software Engineering and Technology ',
     },
     website: {
       name: 'linkedin.com/in/lipingwucs/',
@@ -170,7 +178,7 @@ const DATA = {
         name: 'School Locator',
         tools: ['Android Studio, MVVM, Google Map '],
         achievements: [
-          '•	Designed and developed the app that allows users to view and search college information from a different style of map.'       
+          'Designed and developed the app that allows users to view and search college information from a different style of map.'       
         ],
       },
       {
@@ -191,7 +199,7 @@ const DATA = {
       },
       {
         name: 'Yummy Mummy',
-        tools: ['Asp.Net Core'],
+        tools: ['Asp.Net Core, Azure,IIS,MVC'],
         achievements: [
           'Designed and developed the recipe web app which allows users to register and login to CRUD operation base on different authorization on category, ingredients, recipe, and reviews, etc. ',
           'Published on Azure for public visit.'           
