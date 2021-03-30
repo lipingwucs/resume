@@ -10,4 +10,5 @@ $ npm start
 
 ![image](https://user-images.githubusercontent.com/80490008/113015151-3f916500-914b-11eb-85c6-fd572f6eac78.png)
 
-
+# Acknowledgements
+This project was forked from <a href="https://github.com/clemmy/react-resume">  clemmy/react-resume </a> project, so a special thanks to him!
